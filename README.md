@@ -2,6 +2,9 @@
 
 ![Load Monitoring Web App](screenshot.jpg)
 
+## Overview
+Load monitoring web application that allows users to see their average CPU load over the course of ten minutes.
+
 ## Installation
 - Install dependencies with `npm install` or `yarn`
 - Run the server with `npm start`
